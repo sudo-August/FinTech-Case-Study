@@ -3,15 +3,18 @@
 ## Overview and Origin
 
 * Name of company
-
+Ant Group or Ant Group Co., LTD.
 * When was the company incorporated?
+The company was founded in 2004 according to their [website](https://www.antgroup.com/en/about/history). However, [Google's profile](https://en.wikipedia.org/wiki/Ant_Group) on them along with Wikipedia which is probably where they are getting their information, states that Ant Group was officially founded on October 16, 2014. [Crunbase](https://www.crunchbase.com/organization/ant-financial) also has this as their founding date as well. Wikipedia does state though that it was simply a rebranding from Alipay to Ant Group. Alipay was created under Alibaba in 2004 which is probably why the company uses that date as its founding date where as outside institutions look at the official legal founding of the company. 
 
 * Who are the founders of the company?
+Jack Ma is who is widely considered the founder as he is the founder of Alibaba and who is mostly attributed as its founder. However, the [Crunchbase profile](https://www.crunchbase.com/organization/ant-financial) on the company has Lucy Peng listed as its founder. 
 
 * How did the idea for the company (or project) come about?
+The company was built to solve the trust issue that was common at the time with purchasing items online. 
 
 * How is the company funded? How much funding have they received?
-
+The company was originally funded by its parent company, Alibaba, but since spinning off on its own last recievied a Series C funding package and is soon planning to IPO. 
 
 ## Business Activities:
 
